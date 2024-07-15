@@ -1,0 +1,21 @@
+[submodule "tdesign-miniprogram"]
+	path = tdesign-miniprogram
+	url = https://github.com/Tencent/tdesign-miniprogram.git
+[submodule "tdesign-mobile-vue"]
+	path = tdesign-mobile-vue
+	url = https://github.com/Tencent/tdesign-mobile-vue.git
+[submodule "tdesign-flutter"]
+	path = tdesign-flutter
+	url = https://github.com/Tencent/tdesign-flutter.git
+[submodule "tdesign-mobile-react"]
+	path = tdesign-mobile-react
+	url = https://github.com/Tencent/tdesign-mobile-react.git
+[submodule "tdesign-vue"]
+	path = tdesign-vue
+	url = https://github.com/Tencent/tdesign-vue.git
+[submodule "tdesign-vue-next"]
+	path = tdesign-vue-next
+	url = https://github.com/Tencent/tdesign-vue-next.git
+[submodule "tdesign-react"]
+	path = tdesign-react
+	url = https://github.com/Tencent/tdesign-react.git
