@@ -10,6 +10,7 @@ const projectName = [
   'tdesign-react',
   'tdesign-miniprogram',
   'tdesign-mobile-vue',
+  'tdesign-mobile-react',
   'tdesign-flutter/tdesign-site',
 ];
 const projectDesc = {
@@ -18,6 +19,7 @@ const projectDesc = {
   'tdesign-react': '## React for Web 发布 ',
   'tdesign-miniprogram': '## Miniprogram for WeChat 发布',
   'tdesign-mobile-vue': '## Vue3 for Mobile 发布',
+  'tdesign-mobile-react': '## React for Mobile 发布',
   'tdesign-flutter/tdesign-site': '## Flutter for Mobile 发布',
 };
 
