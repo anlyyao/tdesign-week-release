@@ -11,7 +11,7 @@ const projectName = [
   'tdesign-miniprogram',
   'tdesign-mobile-vue',
   'tdesign-mobile-react',
-  'tdesign-flutter/tdesign-site',
+  'tdesign-flutter',
 ];
 const projectDesc = {
   'tdesign-vue': '## Vue2 for Web 发布',
@@ -20,7 +20,7 @@ const projectDesc = {
   'tdesign-miniprogram': '## Miniprogram for WeChat 发布',
   'tdesign-mobile-vue': '## Vue3 for Mobile 发布',
   'tdesign-mobile-react': '## React for Mobile 发布',
-  'tdesign-flutter/tdesign-site': '## Flutter for Mobile 发布',
+  'tdesign-flutter': '## Flutter for Mobile 发布',
 };
 
 // 使用正则表达式提取版本标题行，确保以"##"开头并以日期结尾
